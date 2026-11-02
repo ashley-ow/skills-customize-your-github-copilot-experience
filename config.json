@@ -72,6 +72,13 @@
       "description": "Save, load, and update Python data using JSON files.",
       "path": "assignments/json-data-storage",
       "dueDate": "2026-11-09"
+    },
+    {
+      "id": "python-unittest",
+      "title": "Testing Python Functions with unittest",
+      "description": "Practice writing and running automated tests for Python functions with the built-in unittest framework.",
+      "path": "assignments/python-unittest",
+      "dueDate": "2026-11-09"
     }
   ]
 }
